@@ -1,1 +1,5 @@
+<<<<<<< .merge_file_a04500
 Hello world
+=======
+Hello  world
+>>>>>>> .merge_file_a05464
